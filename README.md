@@ -1,5 +1,6 @@
 ---
-"Easy to use, easy to modify"
+Easy to use, easy to modify neovim distribution
+
 ---
 
 <details>
