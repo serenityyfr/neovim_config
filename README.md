@@ -8,7 +8,7 @@ date: 2026-05-31
 simple neovim config with custom binds and functions
 
 <h2>Installation</h2>
-1. Backup your current neovim config
+1. Backup your current neovim config<br>
 2. Clone the repo
 <details>
   <summary>Linux</summary>
