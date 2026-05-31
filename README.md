@@ -3,6 +3,7 @@ _Easy to use, easy to modify neovim distribution_
 
 ---
 
+<h2>Installation</h2>
 <details>
 <summary> Linux </summary>
 <br>  
