@@ -4,8 +4,7 @@ title: "Neovim distro"
 ---
 
 # neovim_config
-simple neovim config with custom binds and functions
-
+Easy to use, easy to modify neovim distribution.
 <h2>Installation</h2>
 
 <details>
