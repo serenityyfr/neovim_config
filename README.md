@@ -12,7 +12,7 @@ simple neovim config with custom binds and functions
 <details>
 <summary> Linux </summary>
 <br> 
-Backs up your current neovim config and clones the repo. 
+Backs up your current neovim config and clones the repo.<br>
 <br>
   
   ```
