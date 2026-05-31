@@ -1,7 +1,7 @@
 
 Easy to use, easy to modify neovim distribution
 
-*Features:*
+## Features:
 - feature1
 - f2
 - f3
