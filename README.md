@@ -7,6 +7,7 @@ Easy to use, easy to modify neovim distribution
 - f3
 
 ---
+<br><br><br>
 
 <h2>Installation</h2>
 <details>
