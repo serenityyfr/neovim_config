@@ -7,7 +7,7 @@ date: 2026-05-31
 # neovim_config
 simple neovim config with custom binds and functions
 
-<h2>Installation</h2>
+### Installation
 <details>
   <summary>Linux</summary>
   ```
