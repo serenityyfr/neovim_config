@@ -1,4 +1,4 @@
-Swap escape function to `<CAPSL>` 🗿
+Swap escape function to `<CAPS>` 🗿
 
 
 
