@@ -11,8 +11,8 @@ simple neovim config with custom binds and functions
 
 <details>
 <summary> Linux </summary>
- 
-Backs up your current neovim config and clones the repo.  
+<br> 
+Backs up your current neovim config and clones the repo. 
   ```
   mv ~/.config/nvim ~/.config/nvim_backup && mkdir -p ~/.config/nvim && git clone https://github.com/peter-pavlovsky/neovim_config.git ~/.config/nvim
   ```
