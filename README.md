@@ -1,9 +1,3 @@
-Swap escape function to `<CAPS>` 🗿
-
-
-
----
-<br>
 <h2>Installation</h2>
 <details>
 <summary> Linux </summary>
