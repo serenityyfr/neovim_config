@@ -1,8 +1,8 @@
 <h2>Installation</h2>
 
-<l>Backs up current configuration</l>
-<l>Clones the repo</l>
-<l>Removes LICENSE, .git etc</l>
+- Backs up current configuration
+- Clones the repo
+- Removes `.git` `LICENSE` and `README.md` files
 
 <details>
 <summary> Linux </summary>
