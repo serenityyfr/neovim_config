@@ -8,7 +8,7 @@ return {
             disable_filetype = { "TelescopePrompt", "spectre_panel", "snacks_picker_input" },
             disable_in_macro = true,
             disable_in_visualblock = false,
-            disable_in_replace_mode = false,
+            disable_in_replace_mode = true,
             ignored_next_char = [[%w%%%'%[%"%.%`%$]],
             enable_moveright = true,
             enable_afterquote = true,
