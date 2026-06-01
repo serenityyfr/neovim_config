@@ -21,7 +21,6 @@ vim.opt.rtp:prepend(lazypath)
 
 
 
-
 --print('Setting up Lazy')
 require("lazy").setup({
   spec = {
@@ -29,6 +28,7 @@ require("lazy").setup({
 	  { import = "plugins.lualine" },
 	  { import = "plugins.treesitter" },
 	  { import = "plugins.autopairs" },
+	  { import = "plugins.telescope" },
   },
   -- Lazy's colorscheme && autoupdates
   install = { colorscheme = { "habamax" } },

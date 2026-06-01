@@ -57,7 +57,7 @@ vim.o.hlsearch = true
 vim.o.incsearch = true
 
 --------OTHER QOL---------------
-vim.o.updatetime = 250
+vim.o.updatetime = 375
 vim.opt.scrolloff = 10
 vim.o.showcmd = true
 
