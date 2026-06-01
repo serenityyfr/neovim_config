@@ -28,6 +28,7 @@ require("lazy").setup({
 	  { import = "plugins.colors" },
 	  { import = "plugins.lualine" },
 	  { import = "plugins.treesitter" },
+	  { import = "plugins.autopairs" },
   },
   -- Lazy's colorscheme && autoupdates
   install = { colorscheme = { "habamax" } },
