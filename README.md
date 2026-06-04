@@ -1,3 +1,9 @@
+## About
+<p>A basic neovim configuration with some QoL plugins</p>
+<p>Made to use with Tmux although that's optional ig...</p>
+
+___
+
 ## Installation
 
 1. Backs up your current config
